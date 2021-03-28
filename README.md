@@ -1,4 +1,4 @@
-![Pokedox](./images/screen.png)
+![Pokedox](./images/screen1.png)
 
 ## Getting Started
 
